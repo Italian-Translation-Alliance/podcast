@@ -6,8 +6,8 @@ plugins:
   - jekyll-paginate
 
 ## MAIN ##  
-title: "EthanMcBloxxer" # title of blog or your name
-subtitle: "Creator of Writeas.Jekyll" # subtitle of blog or your position / minbio
+title: "La voce dell'Alleanza" # title of blog or your name
+subtitle: "Il podcast dell'Italian Translation Alliance" # subtitle of blog or your position / minbio
 links:
   about: /about/
   contact: mailto:italian.translation.alliance@gmail.com
