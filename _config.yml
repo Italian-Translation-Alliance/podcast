@@ -12,7 +12,7 @@ links:
   about: /about/
   contact: mailto:italian.translation.alliance@gmail.com
   rss: /feed.xml
-credit: true # show a footer "published with jekyll-theme-writeas" (only on posts)
+credit: false # show a footer "published with jekyll-theme-writeas" (only on posts)
 
 ## FONTS ##
 serif: true # use a serif font (Lora) instead of sans-serif (Open Sans); "monospace" is also supported
