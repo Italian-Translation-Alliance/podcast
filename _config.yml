@@ -11,7 +11,7 @@ subtitle: "Il podcast dell'Italian Translation Alliance" # subtitle of blog or y
 links:
   about: /about/
   contact: mailto:italian.translation.alliance@gmail.com
-  rss: /feed.xml
+  rss: /podcast/feed.xml
 credit: true # show a footer "published with jekyll-theme-writeas" (only on posts)
 
 ## FONTS ##
